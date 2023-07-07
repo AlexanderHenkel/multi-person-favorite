@@ -15,7 +15,7 @@
       "customRowAction": {
         "action": "setValue",
         "actionInput": {
-          "Favorite": "=appendTo(@currentField.email , @me)"
+          "INTERNALCOLUMNNAME": "=appendTo(@currentField.email , @me)"
         }
       },
       "children": [
@@ -47,7 +47,7 @@
       "customRowAction": {
         "action": "setValue",
         "actionInput": {
-          "Favorite": "=removeFrom(@currentField.email , @me)"
+          "INTERNALCOLUMNNAME": "=removeFrom(@currentField.email , @me)"
         }
       },
       "children": [
