@@ -9,7 +9,9 @@ Link to original sample: https://github.com/pnp/List-Formatting/tree/master/colu
 
 This format can be applied to a Multi-Person Column
 
-To get most out of the formatting, create a new view filtered on the column to [@me]
+INTERNALCOLUMNNAME in the code must be re-named to the internal column name
+
+To get most out of the formatting, create a new view filtered on the 'Favorite' column to [@me]
 
 ## Version history
 
