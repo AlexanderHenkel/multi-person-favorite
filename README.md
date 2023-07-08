@@ -1,3 +1,5 @@
+# Multi Person Favorite
+
 ## Summary
 This sample demonstrates the use of the "setValue" and "customRowAction" to let a user add a list item as a favorite in a multi-person column.
 
