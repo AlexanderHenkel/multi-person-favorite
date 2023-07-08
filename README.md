@@ -5,10 +5,6 @@ This sample demonstrates the use of the "setValue" and "customRowAction" to let 
 
 ![screenshot of the sample](screenshot.PNG)
 
-The sample is based on "Assign To Me" example by [Tetsuya Kawahara](https://github.com/tecchan1107) 
-
-Link to original sample: https://github.com/pnp/List-Formatting/tree/master/column-samples/person-assign-to-me )
-
 ## View requirements
 
 This format can be applied to a Multi-Person Column
@@ -22,6 +18,12 @@ To get most out of the formatting, create a new view filtered on the 'Favorite' 
 Version |Date         |Comments
 --------|-------------|--------
 1.0     |Juli 07, 2023 |Initial release
+
+## Additional notes
+
+The sample is based on "Assign To Me" example by [Tetsuya Kawahara](https://github.com/tecchan1107) 
+
+Link to original sample: https://github.com/pnp/List-Formatting/tree/master/column-samples/person-assign-to-me )
 
 ## Disclaimer
 
